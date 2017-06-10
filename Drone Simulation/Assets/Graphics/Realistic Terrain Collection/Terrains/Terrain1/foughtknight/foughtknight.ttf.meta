@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e9d5416f2ee24e648b02c5cfba0e7adb
+timeCreated: 1494198995
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FoughtKnight
+  fontNames:
+  - FoughtKnight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
